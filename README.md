@@ -1,4 +1,4 @@
-# 这个版本没有实现auto-regressvie，因此只有train部分，输入使用的是ground truth
+# 这个版本没有实现auto-regressive，因此只有train部分，输入使用的是ground truth
 
 # Attention is all you need: Discovering the Transformer model
 
